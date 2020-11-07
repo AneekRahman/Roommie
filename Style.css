@@ -1,0 +1,51 @@
+*{}
+body{
+    background-color: gainsboro;
+    margin: 0;
+}
+#Roommie{
+    width: 20%;
+}
+#LogoBor{
+    border-bottom: 10px solid red;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: inline;
+}
+.header{
+    font-family: Raleway, sans-serif;
+    color: lightcoral;
+    margin-top:1.4%;
+    text-align: center;
+    font-weight: 200;
+    display: block;
+}
+
+/*Initial Javascript Testing starts here!*/
+
+p{
+    font-size: 3em;
+    font-family: Raleway;
+    background-color: blueviolet;
+    width: 3.8em;
+    margin: auto;
+    text-align: center;
+    color:white;
+}
+h1{
+    font-size: 170%;
+    font-family: raleway;
+    color: firebrick;
+    background-color: darkred;
+    width: 12em;
+    text-align: center;
+    margin: auto;
+    padding: 4em;
+}
+button{
+    width: 3em;
+    height: 2em;
+    color: blueviolet;
+    font-size: 2em;
+    font-weight: 800;
+}
